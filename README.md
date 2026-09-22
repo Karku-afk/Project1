@@ -1,0 +1,2 @@
+# Project1
+Veebiprogrammeerimise kursuse esimene projekt
